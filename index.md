@@ -1,1 +1,4 @@
 # Guacamole recipe
+
+- ingredients
+- Instructions
