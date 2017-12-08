@@ -1,5 +1,4 @@
 avocado
 onion
 salt
-tomato
 lemon
